@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alessandro170292150
+- 👋 Hi, I’m @Alessandro92150
 - 👀 I’m in High School
 - 🌱 I’m currently learning Python, SQL and Html / Js / CSS
 - 💞️ I’m looking to collaborate on Nothing
