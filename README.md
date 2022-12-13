@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alessandro170292150
-- 👀 I’m interested in High School
+- 👀 I’m in High School
 - 🌱 I’m currently learning Python, SQL and Html / Js / CSS
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Impossible
